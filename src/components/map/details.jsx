@@ -1,15 +1,18 @@
 // unfinished/src/components/details.jsx
 import React        from 'react';
 //import d3           from 'd3';
-
-//<p><img src="https://infographic.statista.com/normal/chartoftheday_14565_l_exposition_aux_fake_news_dans_le_monde_n.jpg" alt="initiative" /></p>
+// <p className="details-title" style={{fontSize: 36, paddingTop: 50}}>#Fake News - Observatory of initiatives in the world</p> 
+//<p><img src="https://cdn.radiofrance.fr/s3/cruiser-production/2018/01/6f862a98-0133-46cb-ba1e-11d3ae4feb43/640_dpaphotostwo875261.jpg" alt="initiative" /></p>
 //<p>Et face à ce constat quelles initiatives citoyennes?</p> 
 
 function PopupTemplate(props){
     console.log('props' + JSON.stringify(props));
     if (typeof(props.data.title) == 'undefined'){
         return <div className="details" id="section-map">
-            <p className="details-title" style={{fontSize: 36, paddingTop: 50}}>#Fake News - Observatory of initiatives in the world</p> 
+            <p className="details-title" style={{paddingTop: 20}}>#Fake News - Observatory of initiatives in the world</p> 
+
+            <p><img src="https://cdn.radiofrance.fr/s3/cruiser-production/2018/01/6f862a98-0133-46cb-ba1e-11d3ae4feb43/640_dpaphotostwo875261.jpg" alt="initiative" /></p>
+     
         </div>
     } 
     let data = props.data;
