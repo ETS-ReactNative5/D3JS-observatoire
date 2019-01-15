@@ -68,7 +68,7 @@ class Map extends React.Component {
             .style("fill", "#c1d3b8")
             .style("font-weight", "300")
             .style("font-size", "16px")
-            .text("Initiatives citoyennes de lutte contre les Fakenews");
+            .text("Citizen Initiatives against Fake News");
 
         svg.append("text")
             .attr("x", (width / 2))

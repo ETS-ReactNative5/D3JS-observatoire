@@ -2,7 +2,7 @@
   "name": "jeu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cen-paris8.github.io/observatoire",
+  "homepage": "https://cen-paris8.github.io/observatoire/",
   "dependencies": {
     "d3": "^5.7.0",
     "d3-scale": "^2.1.2",

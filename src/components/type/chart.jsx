@@ -23,7 +23,7 @@ class Chart extends React.Component {
                 .size([2 * Math.PI, radius])(d3.hierarchy(data)
                 .sum(d => d.size)
                 .sort((a, b) => b.value - a.value));
-            const color = d3.scaleOrdinal().range(d3.quantize(d3.interpolateCubehelixDefault, data.children.length + 1));
+            const color = d3.scaleOrdinal().range(d3.quantize(d3.interpolateSpectral, data.children.length + 1));
             const format = d3.format(",d");
             const width = 932;
             const radius = width / 2;
@@ -41,35 +41,38 @@ class Chart extends React.Component {
                 .style("width", "900px")
                 .style("height", "900px")
                 .style("padding", "10px")
-                .style("font", "10px sans-serif")
+                .style("font", "16px sans-serif")
+                .style("color","#ffff99" )
                 .style("box-sizing", "border-box");
             
               
             const g = svg.append("g");
             
             g.append("g")
+                .style("color","#ffff99" )
                 .attr("fill-opacity", 0.6)
-              .selectAll("path")
-              .data(root.descendants().filter(d => d.depth))
-              .enter().append("path")
+                .selectAll("path")
+                .data(root.descendants().filter(d => d.depth))
+                .enter().append("path")
                 .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
                 .attr("d", arc)
-              .append("title")
+                .append("title")
                 .text(d => `${d.ancestors().map(d => d.data.name).reverse().join("/")}\n${format(d.value)}`);
           
             g.append("g")
                 .attr("pointer-events", "none")
                 .attr("text-anchor", "middle")
-              .selectAll("text")
-              .data(root.descendants().filter(d => d.depth && (d.y0 + d.y1) / 2 * (d.x1 - d.x0) > 10))
-              .enter().append("text")
+                .selectAll("text")
+                .data(root.descendants().filter(d => d.depth && (d.y0 + d.y1) / 2 * (d.x1 - d.x0) > 10))
+                .enter().append("text")
                 .attr("transform", function(d) {
                   const x = (d.x0 + d.x1) / 2 * 180 / Math.PI;
                   const y = (d.y0 + d.y1) / 2;
                   return `rotate(${x - 90}) translate(${y},0) rotate(${x < 180 ? 0 : 180})`;
                 })
                 .attr("dy", "0.35em")
-                .text(d => d.data.name);
+                .text(d => d.data.name)
+                .style("color","#ffff99" );
         
 
                 // test

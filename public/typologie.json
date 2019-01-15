@@ -1,72 +1,40 @@
 {
     "name": "typologie",
     "children": [
-        {   "name": "Start",
-            "size": 1,
-            "children": [
-                {
-                   "name": "vidéo",
-                   "size": 1,
-                   "children": [
-                       {
-                           "name": "politique",
-                           "children": [
-                               {
-                                   "name": "électeurs",
-                                   "size": 1
-                               },
-                               {
-                                   "name": "étudiants",
-                                   "size": 0
-                               },
-                               {
-                                   "name": "adultes",
-                                   "size": 0
-                               }
-                           ]
-                       }
-                    ]
-                }
-            ]
-        },
          {
-            "name": "Décryptage",
-            "size": 40,
+            "name": "décrypt.",
+            "size": 77,
             "children": [
                  {
-                    "name": "vidéo",
-                    "size": 4,
+                    "name": "vid.",
+                    "size": 7,
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -75,32 +43,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -109,19 +73,15 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -130,18 +90,18 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "technique",
-                            "size": 2,
+                            "name": "tech.",
+                            "size": 4,
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1,
+                                    "name": "adu.",
+                                    "size": 4,
                                     "logo": "./logos/mobileMonkeys.png",
                                     "title": "MobileMonkey"
                                 }
@@ -151,38 +111,34 @@
                 },
                 {
                     "name": "forum",
-                    "size": 20,
+                    "size": 7,
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
+                                    "name": "étu.",
                                     "size": 2
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 3
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 2
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -191,32 +147,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -225,21 +177,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
+                                    "name": "adu.",
+                                    "size": 8
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "enfants",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
-                                }, 
+                                },
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -250,99 +198,78 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "actualité",
+                            "name": "actu.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "technique",
+                            "name": "tech.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "name": "site web",
-                    "size": 6,
+                    "name": "www",
+                    "size": 40,
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 0
+                                    "name": "jeun.",
+                                    "size": 6
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 7
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 6
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "people",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 1
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -351,23 +278,15 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
+                                    "name": "adu.",
+                                    "size": 3
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 2
+                                    "name": "jeun.",
+                                    "size": 5
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -376,33 +295,33 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "actualité",
+                            "name": "actu.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 5
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
+                                    "name": "jeun.",
+                                    "size": 7
                                 }
                             ]
                         },
                         {
-                            "name": "technique",
+                            "name": "tech.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 6
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
@@ -411,94 +330,78 @@
                 },
                 {
                     "name": "jeu",
-                    "size": 50,
+                    "size": 16,
                     "children": [
                         {
-                            "name": "politique",
-                            "size": 14,
+                            "name": "pol.",
+                            "size": 10,
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "étudiants",
+                                    "name": "étu.",
                                     "size": 3
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 2
+                                    "name": "adu.",
+                                    "size": 7
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
-                            "size": 5,
+                            "name": "éco.",
+                            "size": 2,
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 2
                                 }
                             ]
                         },
                         {
                             "name": "people",
-                            "size": 4,
+                            "size": 0,
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
+                                    "name": "jeun.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
-                            "size": 10,
+                            "name": "med.",
+                            "size": 2,
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 3
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "adu.",
                                     "size": 1
+                                },
+                                {
+                                    "name": "étu.",
+                                    "size": 1
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
                             "name": "RS",
-                            "size": 10,
+                            "size":2,
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 3
-                                },
-                                {
-                                    "name": "enfants",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
-                                }, 
+                                    "name": "jeun.",
+                                    "size": 2
+                                },
                                 {
-                                    "name": "soi-même",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -507,114 +410,7 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "tweet",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "ado",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -623,37 +419,34 @@
                 },
                 {
                     "name": "livre",
+
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
+                                    "name": "jeun.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -662,32 +455,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 3
                                 },
                                 {
-                                    "name": "adolescents",
-                                    "size": 1
+                                    "name": "jeun.",
+                                    "size": 3
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -696,21 +485,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "enfants",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "jeun.",
                                     "size": 0
-                                }, 
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -721,7 +506,7 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -730,591 +515,63 @@
                 }
             ]
         },
-        {
-            "name": "Satire",
-            "size": 40,
+        {   "name": "autre",
+            "size": 3,
             "children": [
-                 {
-                    "name": "vidéo",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "ado",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "size": 4,
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 1
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "actualité",
-                            "size": 2,
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
                 {
-                    "name": "forum",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "ado",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "site web",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "ado",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "jeu",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 2
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 1
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 1
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 1
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "tweet",
-                    "children": [
-                        {
-                            "name": "politique",
-                            "children": [
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "économique",
-                            "children": [
-                                {
-                                    "name": "ado",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "people",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "presse",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "RS",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
-                                    "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "lobby",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 0
-                                }
-                            ]
-                        }
+                   "name": "vid.",
+                   "size": 3,
+                   "children": [
+                       {
+                           "name": "pol.",
+                           "children": [
+                               {
+                                   "name": "étu.",
+                                   "size": 0
+                               },
+                               {
+                                   "name": "adu.",
+                                   "size": 3
+                               }
+                           ]
+                       }
                     ]
                 }
             ]
         },
         {
-            "name": "Dénonciation",
-            "size": "30",
+            "name": "sati.",
+            "size": 9,
             "children": [
                  {
-                    "name": "vidéo",
+                    "name": "vid.",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
+                                    "name": "étu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1323,53 +580,46 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
                             "name": "RS",
+                            "size": 0,
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1378,16 +628,17 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "actualité",
+                            "name": "actu.",
+                            "size": 0,
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -1398,35 +649,31 @@
                     "name": "forum",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 2
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1435,32 +682,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1469,21 +712,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 1
+                                    "name": "jeun.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
-                                }, 
+                                },
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -1494,55 +733,42 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "actualité",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 2
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    "name": "site web",
+                    "name": "www",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 2
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1551,32 +777,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1585,21 +807,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -1610,17 +828,8 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "actualité",
-                            "children": [
-                                {
-                                    "name": "adultes",
-                                    "size": 1
                                 }
                             ]
                         }
@@ -1630,35 +839,31 @@
                     "name": "jeu",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 0
+                                    "name": "étu.",
+                                    "size": 2
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 2
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "actu.",
                             "children": [
                                 {
-                                    "name": "ado",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 0
+                                    "name": "adu.",
+                                    "size": 1
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1667,33 +872,29 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
+                                    "name": "enf.",
+                                    "size": 0
                                 }
                             ]
                         },
@@ -1701,21 +902,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -1726,7 +923,7 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -1737,39 +934,31 @@
                     "name": "tweet",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "étudiants",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "soi-même",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1778,32 +967,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1812,21 +997,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -1837,7 +1018,7 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -1847,42 +1028,38 @@
             ]
         },
         {
-            "name": "Humouristique",
-            "size": "20",
+            "name": "dénon.",
+            "size": "3",
             "children": [
                  {
-                    "name": "vidéo",
+                    "name": "vid.",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
+                                    "name": "étu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 1
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1891,32 +1068,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1925,19 +1098,15 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -1946,17 +1115,17 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "actualité",
+                            "name": "actu.",
                             "children": [
                                 {
-                                    "name": "étudiants",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         }
@@ -1966,35 +1135,31 @@
                     "name": "forum",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2003,32 +1168,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2037,21 +1198,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -2062,7 +1219,16 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "actu.",
+                            "children": [
+                                {
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -2070,38 +1236,34 @@
                     ]
                 },
                 {
-                    "name": "site web",
+                    "name": "www",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 0
+                                    "name": "adu.",
+                                    "size": 3
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2110,32 +1272,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2144,23 +1302,15 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
-                                    "size": 0
-                                }, 
-                                {
-                                    "name": "soi-même",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2169,7 +1319,16 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "actu.",
+                            "children": [
+                                {
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
@@ -2180,35 +1339,31 @@
                     "name": "jeu",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
-                                    "size": 1
+                                    "name": "étu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
-                                    "name": "adolescents",
-                                    "size": 2
+                                    "name": "ado",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2217,32 +1372,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "enfants",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2251,21 +1402,17 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 2
-                                },
-                                {
-                                    "name": "enfants",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "jeun.",
                                     "size": 0
-                                }, 
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -2276,25 +1423,8 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
-                                    "size": 1
-                                }
-                            ]
-                        },
-                        {
-                            "name": "actualité",
-                            "children": [
-                                {
-                                    "name": "enfants",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adolescents",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "adultes",
-                                    "size": 1
+                                    "name": "adu.",
+                                    "size": 0
                                 }
                             ]
                         }
@@ -2304,35 +1434,35 @@
                     "name": "tweet",
                     "children": [
                         {
-                            "name": "politique",
+                            "name": "pol.",
                             "children": [
                                 {
-                                    "name": "électeurs",
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "étudiants",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "soi-même",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "économique",
+                            "name": "éco.",
                             "children": [
                                 {
                                     "name": "ado",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2341,32 +1471,28 @@
                             "name": "people",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 }
                             ]
                         },
                         {
-                            "name": "presse",
+                            "name": "med.",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
-                                    "size": 0
-                                },
-                                {
-                                    "name": "électeurs",
+                                    "name": "enf.",
                                     "size": 0
                                 }
                             ]
@@ -2375,21 +1501,214 @@
                             "name": "RS",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "adolescents",
+                                    "name": "jeun.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "enfants",
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lobby",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "humor.",
+            "size": "9",
+            "children": [
+                 {
+                    "name": "vid.",
+                    "children": [
+                        {
+                            "name": "pol.",
+                            "children": [
+                                {
+                                    "name": "étu.",
                                     "size": 0
                                 },
                                 {
-                                    "name": "électeurs",
+                                    "name": "adu.",
                                     "size": 0
-                                }, 
+                                }
+                            ]
+                        },
+                        {
+                            "name": "éco.",
+                            "children": [
+                                {
+                                    "name": "ado",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "people",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "med.",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RS",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "étu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lobby",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "actu.",
+                            "children": [
+                                {
+                                    "name": "étu.",
+                                    "size": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "forum",
+                    "children": [
+                        {
+                            "name": "pol.",
+                            "children": [
+                                {
+                                    "name": "étu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "éco.",
+                            "children": [
+                                {
+                                    "name": "ado",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "people",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "med.",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RS",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
                                 {
                                     "name": "soi-même",
                                     "size": 0
@@ -2400,7 +1719,305 @@
                             "name": "lobby",
                             "children": [
                                 {
-                                    "name": "adultes",
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "www",
+                    "children": [
+                        {
+                            "name": "pol.",
+                            "children": [
+                                {
+                                    "name": "étu.",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "éco.",
+                            "children": [
+                                {
+                                    "name": "ado",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "people",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "med.",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RS",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lobby",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "jeu",
+                    "children": [
+                        {
+                            "name": "pol.",
+                            "children": [
+                                {
+                                    "name": "étu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "actu.",
+                            "children": [
+                                {
+                                    "name": "jeun.",
+                                    "size": 3
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "people",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "med.",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RS",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 5
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 2
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "soi-même",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lobby",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "eco.",
+                            "children": [
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "tweet",
+                    "children": [
+                        {
+                            "name": "pol.",
+                            "children": [
+                                {
+                                    "name": "étu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "éco.",
+                            "children": [
+                                {
+                                    "name": "ado",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "people",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "med.",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "RS",
+                            "children": [
+                                {
+                                    "name": "adu.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "jeun.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "enf.",
+                                    "size": 0
+                                },
+                                {
+                                    "name": "soi-même",
+                                    "size": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "lobby",
+                            "children": [
+                                {
+                                    "name": "adu.",
                                     "size": 0
                                 }
                             ]
