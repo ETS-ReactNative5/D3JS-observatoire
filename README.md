@@ -1,5 +1,8 @@
-Projct :
+Project :
 https://cen-paris8.github.io/observatoire/
+
+***
+Documentation
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
