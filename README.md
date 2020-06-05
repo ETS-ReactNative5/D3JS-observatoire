@@ -1,5 +1,18 @@
 Project :
-https://cen-paris8.github.io/observatoire/
+https://cen-paris8.github.io/D3JS-observatoire/
+
+*** 
+Techno:
+React
+D3Js
+
+***
+Manual :
+rm -rf node_modules
+npm install
+npm start
+npm run build
+npm run-deploy
 
 ***
 Documentation
