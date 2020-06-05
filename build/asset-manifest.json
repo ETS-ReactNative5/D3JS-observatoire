@@ -1,14 +1,14 @@
 {
-  "main.css": "/observatoire/static/css/main.01939292.chunk.css",
-  "main.js": "/observatoire/static/js/main.113ed57f.chunk.js",
-  "main.js.map": "/observatoire/static/js/main.113ed57f.chunk.js.map",
-  "static/js/1.0571de03.chunk.js": "/observatoire/static/js/1.0571de03.chunk.js",
-  "static/js/1.0571de03.chunk.js.map": "/observatoire/static/js/1.0571de03.chunk.js.map",
-  "runtime~main.js": "/observatoire/static/js/runtime~main.f1116cf3.js",
-  "runtime~main.js.map": "/observatoire/static/js/runtime~main.f1116cf3.js.map",
-  "static/media/wdscroll_bas.svg": "/observatoire/static/media/wdscroll_bas.99ac3a92.svg",
-  "static/css/main.01939292.chunk.css.map": "/observatoire/static/css/main.01939292.chunk.css.map",
-  "index.html": "/observatoire/index.html",
-  "precache-manifest.6b095e4b55857d31e521f4476e50301c.js": "/observatoire/precache-manifest.6b095e4b55857d31e521f4476e50301c.js",
-  "service-worker.js": "/observatoire/service-worker.js"
+  "main.css": "/D3JS-observatoire/static/css/main.01939292.chunk.css",
+  "main.js": "/D3JS-observatoire/static/js/main.113ed57f.chunk.js",
+  "main.js.map": "/D3JS-observatoire/static/js/main.113ed57f.chunk.js.map",
+  "static/js/1.0571de03.chunk.js": "/D3JS-observatoire/static/js/1.0571de03.chunk.js",
+  "static/js/1.0571de03.chunk.js.map": "/D3JS-observatoire/static/js/1.0571de03.chunk.js.map",
+  "runtime~main.js": "/D3JS-observatoire/static/js/runtime~main.f7a2b523.js",
+  "runtime~main.js.map": "/D3JS-observatoire/static/js/runtime~main.f7a2b523.js.map",
+  "static/media/wdscroll_bas.svg": "/D3JS-observatoire/static/media/wdscroll_bas.99ac3a92.svg",
+  "static/css/main.01939292.chunk.css.map": "/D3JS-observatoire/static/css/main.01939292.chunk.css.map",
+  "index.html": "/D3JS-observatoire/index.html",
+  "precache-manifest.0ba8cdfa46af7ffde347203db126e41c.js": "/D3JS-observatoire/precache-manifest.0ba8cdfa46af7ffde347203db126e41c.js",
+  "service-worker.js": "/D3JS-observatoire/service-worker.js"
 }
