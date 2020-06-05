@@ -7,6 +7,10 @@ React
 D3Js
 
 ***
+Visuel :
+![GitHub Logo](https://github.com/cen-paris8/D3JS-observatoire/cover.PNG)
+
+***
 Manual :
 rm -rf node_modules
 npm install
