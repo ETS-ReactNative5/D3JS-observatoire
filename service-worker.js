@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/observatoire/precache-manifest.6b095e4b55857d31e521f4476e50301c.js"
+  "/D3JS-observatoire/precache-manifest.0ba8cdfa46af7ffde347203db126e41c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/observatoire/index.html", {
+workbox.routing.registerNavigationRoute("/D3JS-observatoire/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
