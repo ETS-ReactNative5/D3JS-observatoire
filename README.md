@@ -8,7 +8,7 @@ D3Js
 
 ***
 Visuel :
-![GitHub Logo](https://github.com/cen-paris8/D3JS-observatoire/cover.PNG)
+![GitHub Logo](cover.PNG)
 
 ***
 Manual :
